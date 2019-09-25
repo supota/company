@@ -6,3 +6,6 @@
 - [秘密保持契約書 - 共通](https://github.com/supota/contract/raw/master/nondisclosure-agreement.pdf)
 - [業務委託契約書 - エンジニア職]()
 - [業務委託契約書 - 企画・マーケティング職]()
+
+## 補足
+基本的に契約書はCloudsignなどのツールを使って署名・捺印していただきます。
