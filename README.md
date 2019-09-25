@@ -1,4 +1,4 @@
-# SUPOTA Inc. - Contract
+# 契約書
 
 ---
 
