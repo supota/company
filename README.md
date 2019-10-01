@@ -1,11 +1,9 @@
-# 契約書
+# SUPOTA Inc. - Contract
 
 ---
 
-## 一覧
-- [秘密保持契約書 - 共通](https://github.com/supota/contract/raw/master/nondisclosure-agreement.pdf)
-- [業務委託契約書 - エンジニア職]()
-- [業務委託契約書 - 企画・マーケティング職]()
+## 一覧（クリックするとダウンロードします。）
+- [秘密保持誓約書](https://github.com/supota/contract/raw/master/秘密保持誓約書.pdf)
+- [業務委託契約書](https://github.com/supota/contract/raw/master/業務委託契約書.pdf)
 
-## 補足
-基本的に契約書はCloudsignなどのツールを使って署名・捺印していただきます。
+契約書はCloudsignなどのツールを使って署名・捺印していただきます。
